@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **ReactJS, TypeScript, Tailwind etc.**
 
-- 📫 How to reach me **thanyaluck.chom@gmail.com**
 
 - ⚡ Fun fact **I'm very friendly and talkative.**
 
